@@ -21,7 +21,7 @@
 #define UNUSED_PINS
 
 //RGB跟随主机休眠
-#define RGBLIGHT_SLEEP
+//#define RGBLIGHT_SLEEP
 /* COL2ROW or ROW2COL */
 #define DIODE_DIRECTION COL2ROW
 
